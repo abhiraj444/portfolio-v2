@@ -1,0 +1,81 @@
+name,description,created,last_push,language,stars,topics,homepage,fork,has_readme,readme_bytes,commits,size_kb,has_pages,open_issues,default_branch
+3dfloordesign,See the for design in 3d,2026-09-02,2026-09-02,TypeScript,0,,https://3dfloordesign.vercel.app,False,False,0,5,227,False,0,main
+adobe-scan-web,"Adobe Scan web application with real-time camera boundary detection, 8-point crop, and async Web Worker CV pipeline",2026-08-27,2026-09-02,TypeScript,0,,https://adobe-scan-web.vercel.app,False,True,3165,7,167,False,0,master
+agent-browser,Automate the agent in browser,2026-10-08,2026-10-08,Python,0,,,False,False,0,4,249,False,0,main
+Alp-pdf-cbt2-english-to-hindi,,2026-06-29,2026-06-29,Python,0,,,False,False,0,3,21401,False,0,main
+Answer-Hiding,Hide Answer from Testbook and GaganPratap PYQ pdf in both mobile and desktop,2026-01-12,2026-01-13,HTML,0,,https://answer-hiding-ijaj.vercel.app,False,False,0,16,85,False,0,master
+AnswerHiding,Hide Answer from Testbook and GaganPratap PYQ pdf,2026-01-12,2026-01-12,HTML,0,,https://answer-hiding.vercel.app,False,False,0,1,1680,False,0,master
+automaio,,2026-09-16,2026-09-16,TypeScript,0,,,False,False,0,6,82,False,0,main
+AutomationFramework,,2025-06-08,2025-06-08,,0,,,False,False,0,err,0,False,0,main
+Backend-book-ml,,2026-06-24,2026-06-24,Jupyter Notebook,0,,,False,False,0,1,16,False,0,colab-doc-pipeline-5944412069543007589
+best-medical-analysis,Diagnose medical cases or get answer for clinical question and generate content to learn about the topic,2025-07-06,2025-07-06,TypeScript,0,,https://best-medical-analysis.vercel.app,False,True,114,2,226,False,0,main
+Book-reader,Read any book with pyq and images.,2026-05-28,2026-05-28,Python,0,,,False,True,2462,2,7,False,0,jules-bookmind-local-architecture-3297381244844128130
+Botskipper,Get download link instantly ,2026-09-07,2026-09-07,TypeScript,0,,,False,False,0,4,196,False,0,main
+branchingPractice,,2023-10-27,2023-10-27,,0,,,False,False,0,5,1,False,0,main
+Breast-Cancer-Analyzer,Ai powered web app to detect Metastatic Cancer and Invasive Ductal Carcinoma in histopathology tissue images.,2021-06-19,2021-06-19,,0,,http://histo.test.woza.work/,True,True,3887,13,8055,False,0,master
+Bubble-clock,,2026-07-15,2026-07-15,HTML,0,,,False,False,0,2,84,True,1,main
+bubble-pomo,,2026-07-15,2026-07-15,HTML,0,,,False,False,0,5,78,True,0,main
+Content-explainer-,Generate as well as explain the content in voice format ,2026-09-02,2026-10-09,TypeScript,0,,https://content-explainer.vercel.app,False,True,114,29,4018,False,0,main
+DiagnosisDesigner,Enhanced UI for medical diagnosis and content generation for educational purposes ,2026-08-20,2026-08-20,TypeScript,0,,,False,True,114,5,3138,False,0,main
+docclean,Clean the document ,2026-10-04,2026-10-04,TypeScript,0,,,False,False,0,3,140,False,0,main
+document-cleaner,Clean the document,2026-10-04,2026-10-04,TypeScript,0,,https://document-cleaner-lemon.vercel.app,False,False,0,3,110,False,0,main
+eclipse-visualiser,,2025-09-09,2025-09-09,,0,,,False,False,0,err,0,False,0,main
+educative.io_courses,this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack,2021-01-09,2020-07-18,,0,,,True,True,98,118,970186,False,0,master
+examDocumentJules,Exam document analyzer and storage system,2025-10-16,2025-10-16,,0,,,False,False,0,err,0,False,0,main
+face-particles-3d,,2026-09-22,2026-09-22,TypeScript,0,,https://faceparticle.vercel.app,False,True,2689,11,25608,False,0,main
+facedepth,Depth of 2d face,2026-09-25,2026-09-25,TypeScript,0,,,False,False,0,2,79,False,0,main
+faceshare,Share 3d face,2026-09-26,2026-10-09,TypeScript,0,,https://faceshare-one.vercel.app,False,True,2689,13,14121,False,0,main
+firstSoloProject,,2023-11-26,2023-11-26,HTML,0,,,False,False,0,1,4881,False,0,main
+Fresh-medical,,2025-07-05,2025-07-06,TypeScript,0,,,False,True,114,1,290,False,0,main
+FullknowledgeBase,"Medical diagnosis, presentation and knowledge tree for any topic",2026-08-30,2026-09-02,TypeScript,0,,https://fullexamprep.vercel.app,False,True,114,26,4320,False,0,main
+gitIgnorePractice,,2023-10-27,2023-10-27,,0,,,False,False,0,1,0,False,0,main
+gittutorial,,2023-11-18,2023-11-18,,0,,,False,True,13,1,2,False,0,main
+grokatom,,2026-09-22,2026-09-22,,0,,,False,True,24,1,0,False,0,main
+imageuploadexp,,2025-07-11,2025-07-11,TypeScript,0,,,False,True,114,35,2358,False,0,main
+ippPrint,,2026-08-24,2026-09-02,TypeScript,0,,https://web-app-pink-nine.vercel.app,False,True,5575,28,17280,False,0,main
+JevStudio,,2026-09-19,2026-09-19,TypeScript,0,,https://explorejev.vercel.app,False,True,5819,2,49,False,0,main
+Medical-Case-Analysis,"Diagnose medical case using image or text , and generate ppt out of it ( abhirajpm143 account)",2025-07-04,2025-07-05,TypeScript,0,,,False,True,114,22,411,False,0,main
+Medical-Case-Diagnosis-v1,,2025-07-06,2025-07-06,TypeScript,0,,,False,True,114,5,234,False,0,main
+Medical-Case-PPT-,It generates ppt out of medical case study or clinical question or any particular medical topic,2025-07-01,2025-07-01,,0,,,False,False,0,err,0,False,0,main
+Medical-Case-V2,This project is using firebase storage,2025-07-06,2025-07-06,TypeScript,0,,https://medical-case-v2.vercel.app,False,True,114,8,2243,False,0,main
+medical-case-v3,this contains suggested topic,2025-07-08,2025-07-08,TypeScript,0,,https://medical-case-v3.vercel.app,False,True,114,27,2340,False,0,main
+medical-case-v4,Color gradient slide with some good ux fixes,2025-07-10,2026-08-13,TypeScript,0,,https://medical-case-v4.vercel.app,False,True,114,36,2519,False,2,main
+medical-diagnosis-v3,Some updated design changes ,2026-08-21,2026-08-28,TypeScript,0,,https://medical-diagnosis-v3.vercel.app,False,True,114,22,4262,False,0,main
+medical-document-v2,,2026-08-21,2026-08-21,TypeScript,0,,https://medical-document-v2.vercel.app,False,True,114,11,3031,False,0,main
+MedicalSynthesis,Proper thinking and analysis of medical case.,2026-08-28,2026-08-29,TypeScript,0,,https://medicalsynthesis.vercel.app,False,True,114,11,3351,False,0,main
+medigen-clinical-studio,,2026-08-30,2026-08-30,TypeScript,0,,https://medigen-clinical-studio.vercel.app,False,True,114,2,2415,False,0,main
+Moon-earth-eclipse-,,2026-08-13,2026-08-13,JavaScript,0,,,False,True,1294,3,21,True,0,main
+Music-visualiser,,2026-06-13,2026-06-13,HTML,0,,,False,False,0,3,24,False,0,main
+mysterium,"Mysterium the first tool which permits you to retrieve the most part of a Python code even the .py or .pyc was extracted from an executable file, even it is encrypted with every existing encryptage. Mysterium don't make any difference between encrypted and non encrypted files, it can retrieve code from Pyarmor or .pyc files.",2023-04-26,2023-03-03,,0,,https://github.com/venaxyt/mysterium,True,True,1287,100,13408,False,0,main
+particlefacegrok,,2026-09-21,2026-09-21,JavaScript,0,,,False,True,15,2,4682,False,0,main
+passportphoto,,2026-08-25,2026-08-25,HTML,0,,,False,False,0,8,46,True,0,main
+Pdfscanner,Clean images and pdf,2026-08-25,2026-08-25,TypeScript,0,,https://pdfcleaner-smoky.vercel.app,False,False,0,3,147,False,0,main
+picthreed,2d to 3d,2026-09-26,2026-09-26,TypeScript,0,,https://picthreed.vercel.app,False,True,2689,2,13718,False,0,main
+portfolio-abhiraj,Abhinav Raj Portfolio v1,2026-10-10,2026-10-10,HTML,0,,,False,False,0,11,146,True,0,main
+portfolio-v2,Portfolio-v2 of abhinav Raj.,2026-10-10,2026-10-10,,0,,,False,False,0,err,0,False,0,main
+PortRadar,,2026-09-05,2026-09-05,TypeScript,0,,,False,True,2887,8,176,False,0,main
+ppt-generator-standalone,"run on any device without any firebase and it can also be run as exe , apk or local browser",2025-12-23,2026-08-13,TypeScript,0,,https://ppt-generator-standalone.vercel.app,False,True,114,51,3319,False,0,main
+PPT-Generator_Medical,,2025-07-01,2025-07-01,TypeScript,0,,,False,True,114,26,192,False,0,master
+printing-whatsapp-automation,Automatically print to the canon printer ,2026-01-16,2026-01-18,TypeScript,0,,,False,True,3017,5,194,False,0,main
+scoreboard,score counter app,2023-11-26,2023-11-26,HTML,0,,,False,True,808,3,8,False,0,main
+screen-capture-solver,Solve question by capturing screenshot using shortcut key ALT + S or COMMAND+SHIFT+S,2025-08-05,2025-08-08,JavaScript,0,,,False,True,2461,75,140,False,0,master
+seleniumWebScraping,Flipkart and Amazon product webscraping,2024-10-14,2024-10-14,Java,0,,,False,True,103,3,20,False,0,main
+Signature-and-Photo-resizer-and-cleaner,Extract good signature and photo for exam form online,2026-06-10,2026-06-11,HTML,0,,https://signaturecleaner.vercel.app,False,False,0,15,283,False,0,main
+Signature-and-Photo-resizer-and-cleaner-with-ai-generated-images,,2026-06-10,2026-06-10,HTML,0,,,False,False,0,4,37,False,0,main
+single-framework,"One automation framework for web , mobile and api",2025-09-02,2025-11-03,Java,0,,,False,True,1331,1,15,False,0,feature-hybrid-test-framework
+studio,,2025-10-16,2025-10-16,TypeScript,0,,https://studio-tawny-omega-40.vercel.app,False,True,114,22,220,False,0,main
+Study,,2026-06-17,2026-06-17,Kotlin,0,,,False,False,0,4,103,False,0,main
+Study-tracker-,,2026-06-17,2026-06-17,Kotlin,0,,,False,False,0,3,10197,False,0,main
+Studytrack,,2026-06-17,2026-06-17,,0,,,False,False,0,err,0,False,0,main
+testing,,2023-10-27,2023-10-27,JavaScript,0,,,False,False,0,4,1,False,0,main
+threedface,2d to 3d face ,2026-09-22,2026-09-26,TypeScript,0,,https://threedface.vercel.app,False,True,2689,14,28945,False,0,main
+Unified-Medical,Medical diagnosis and Educational content generation ,2026-08-19,2026-08-19,TypeScript,0,,,False,True,114,4,3085,False,0,main
+UnitConverter,,2023-11-27,2023-11-27,CSS,0,,,False,True,808,1,2,False,0,main
+upgraded-react-with-newui,Current medical project is v3 of medical analysis with upgrade of react 19 and other UI changes,2025-07-10,2025-07-10,TypeScript,0,,,False,True,114,8,2344,False,0,first-try
+Uploadfolder,Upload folder and files to any GitHub repo,2026-09-08,2026-09-08,HTML,0,,,False,False,0,5,13,True,0,main
+Walkitalkie,Walkitalkie ,2026-09-08,2026-09-08,Kotlin,0,,,False,False,0,8,24429,False,0,main
+walktalk,,2026-09-08,2026-09-09,Kotlin,0,,,False,True,1980,16,171,False,0,main
+whatsapp-document-downloader,Chrome extension for downloading WhatsApp documents with organized folder structure,2025-06-29,2025-06-29,JavaScript,0,,,False,True,6297,1,7,False,0,main
+whatsappPdfDownloader,,2024-10-27,2024-10-28,Python,0,,,False,False,0,3,10,False,0,main
+working_photocopy_automation,Automate the pdf downloading and printing to the machine,2026-01-18,2026-01-18,Python,0,,,False,False,0,5,105,False,0,main
+youtube-playlist-downloader,Download youtube playlist using idm,2025-12-15,2025-12-15,HTML,0,,,False,True,6024,2,74,False,0,main
